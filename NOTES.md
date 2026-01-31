@@ -8,3 +8,6 @@ You are free to use and modify any licenses in the ROLS freely without attributi
 
 ## Disclaimer
 Some of our more restrictive licenses in the suit (like ROL-S) might be more on the source-av*ailible* side.
+
+## Legality
+Since I do *not* sound legal, I **drafted the license documents/texts and asked AI to make it sound more legal and upgraded**, but the ideas are mine.
